@@ -124,9 +124,7 @@
 		{
 			"name": "js/ts italic",
 			"scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
-			"settings": {
-				// "fontStyle": "italic"
-			}
+			"settings": {}
 		},
 		{
 			"name": "js/ts import keyword",
@@ -153,7 +151,6 @@
 			"name": "js/ts variable.other.constant",
 			"scope": "variable.other.constant",
 			"settings": {
-				// "foreground": "#fffc58"
 				"foreground": "#faa75f"
 			}
 		},
@@ -318,13 +315,6 @@
 				"foreground": "#2cc7da"
 			}
 		},
-		// {
-		//   "name": "js operator assignment",
-		//   "scope": "keyword.operator.assignment",
-		//   "settings": {
-		//     "foreground": "#b7c5d3ff"
-		//   }
-		// },
 		{
 			"name": "js dom",
 			"scope": "support.type.object.dom",
@@ -546,7 +536,6 @@
 			"name": "Class name",
 			"scope": "entity.name.class",
 			"settings": {
-				// "foreground": "#0095ff"
 				"foreground": "#fffc58"
 			}
 		},
